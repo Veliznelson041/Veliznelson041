@@ -54,10 +54,12 @@
 
 ---
 
-### 📊 Estadísticas de GitHub:
+## 📊 Mis estadísticas de GitHub
 
-![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veliznelson041&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veliznelson041&layout=compact&theme=tokyonight)
+![Nelson's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=veliznelson041&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=veliznelson041&layout=compact&theme=tokyonight)
+
 
 ---
 
