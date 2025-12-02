@@ -1,4 +1,11 @@
-![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+<!-- Encabezado animado -->
+<h1 align="center">👨‍💻 Nelson Veliz — Developer & Cybersecurity Student</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00b3ff&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Ciberseguridad+%7C+OSINT+%7C+Forense+Digital;Apasionado+por+el+Desarrollo+de+Plataformas;Siempre+aprendiendo+y+creciendo+💡">
+</p>
+
+---
 
 # 👋 ¡Hola, soy Nelson! 
 
@@ -44,9 +51,9 @@
 ![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-🧩 APIs & Testing Tools:
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+🧩 **APIs & Testing Tools:**
+
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)  
 ![RapidAPI](https://img.shields.io/badge/RapidAPI-000000?style=for-the-badge&logo=rapidapi&logoColor=white)
 
@@ -69,3 +76,5 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Veliznelson041@gmail.com)
 
 🚀 ¡Explorando, aprendiendo y creciendo en el mundo tech!
+
+![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
