@@ -1,13 +1,15 @@
 
-<!-- Encabezado animado -->
 <h1 align="center">👨‍💻 Nelson Veliz — Developer & Cybersecurity Student</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00b3ff&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Ciberseguridad+%7C+OSINT+%7C+Forense+Digital;Apasionado+por+el+Desarrollo+de+Plataformas;Siempre+aprendiendo+y+creciendo+💡">
 </p>
 
----
 
-# 👋 ¡Hola, soy Nelson! 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  <img align="right" width="33%" style="margin-bottom: 2em" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+
+
+
+# </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Hola, soy Nelson!
 
 🚀 **Desarrollador de Software | Apasionado por la Ciberseguridad & OSINT**  
 💻 **Explorando Forense Digital y Seguridad Informática**  
@@ -68,7 +70,8 @@
 ![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=veliznelson041&layout=compact&theme=tokyonight)
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ### 🌎 Conéctate conmigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-fernando-veliz-395423283/)
