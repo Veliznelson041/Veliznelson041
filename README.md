@@ -64,14 +64,16 @@
 ---
 
 ## 📊 Mis estadísticas de GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=veliznelson041&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veliznelson041&layout=compact&theme=tokyonight&langs_count=8"/>
+</div>
 
-![Nelson's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=veliznelson041&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=veliznelson041&layout=compact&theme=tokyonight)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veliznelson041&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 ### 🌎 Conéctate conmigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-fernando-veliz-395423283/)
